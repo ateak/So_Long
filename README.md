@@ -1,7 +1,7 @@
 # So_Long
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
 
-![So_long (2)](https://user-images.githubusercontent.com/113421021/195634456-05be5083-eec7-4bdb-b61e-96add0423a01.gif)
+![So_long (2)](https://user-images.githubusercontent.com/113421021/195634456-05be5083-eec7-4bdb-b61e-96add0423a01.jpg)
 
 How to play?
 
