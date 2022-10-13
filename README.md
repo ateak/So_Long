@@ -6,6 +6,6 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 How to play?
 
 You need to compile all source files with make or make bonus.
-To launch the game, execute ./so_long or ./so_long_bonus with a map as an argument. You can use maps from map folder or create your own one. 
+To launch the game execute ./so_long or ./so_long_bonus with a map as an argument. You can use maps from map folder or create your own one. 
 
 More detailed information can be obtained from the applied subject.
